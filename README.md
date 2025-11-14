@@ -2,7 +2,7 @@ PROFILE
 
 Name: Arthur G. P. Heberle.
 Age:  19.
-Nationality: Brazilian.
+Nationality: Brazilian/Italian.
 Currently Studying Computer Engeneering in UTFPR/Curitiba.
 =================================================================================================================
 KNOWLEDGE 
